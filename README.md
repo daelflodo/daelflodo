@@ -25,6 +25,7 @@ Tecnologias y Herramientas
 <img src="https://github.com/daelflodo/daelflodo/assets/127464860/ac8639df-8f6c-4ff9-aafe-295ac48340ff" alt="Image 14" width="50">
 <img src="https://github.com/daelflodo/daelflodo/assets/127464860/025a6122-b17b-4dda-9813-22235a6ba153" alt="Image 15" width="50">
 <img src="https://github.com/daelflodo/daelflodo/assets/127464860/e43e2211-3c2b-4a5c-af14-3bc9f638b75e" alt="Image 16" width="50">
+<img src="https://github.com/daelflodo/daelflodo/assets/127464860/8783b168-7ca1-4130-9f40-46c5023b95f3" alt="Image 18" width="50">
 
 
 
