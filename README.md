@@ -28,6 +28,11 @@ Tecnologias y Herramientas
 <img src="https://github.com/daelflodo/daelflodo/assets/127464860/e43e2211-3c2b-4a5c-af14-3bc9f638b75e" alt="Image 16" width="50" height="40">
 <img src="https://github.com/daelflodo/daelflodo/assets/127464860/8783b168-7ca1-4130-9f40-46c5023b95f3" alt="Image 18" width="50" height="40">
 
+- **Extras**:
+
+    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
+    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
+
 
 
 
