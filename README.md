@@ -18,6 +18,7 @@ html css jquery javascript bootstrap react redux fireworks Postgresql mysql Cypr
 ![image](https://github.com/daelflodo/daelflodo/assets/127464860/4b7fa8f8-b432-4ab0-8006-bd528e4a7575)
 ![image](https://github.com/daelflodo/daelflodo/assets/127464860/35bc5226-c86d-465e-9edb-6b738944551c)
 ![image](https://github.com/daelflodo/daelflodo/assets/127464860/6e603774-f9f7-4920-9f55-33c1ff777413)
+<img src="https://github.com/daelflodo/daelflodo/assets/127464860/c878a077-ec99-489d-b8a2-154b19f7c9b3" alt="Image 1" width="400">
 
 
 
