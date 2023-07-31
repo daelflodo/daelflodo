@@ -10,3 +10,4 @@ Mi objetivo es combinar mis habilidades técnicas con una mentalidad creativa pa
 
 Tecnologias: Javascript, React.js, Next.js, Node.js, Express.js, PostgreSQL, Sequelize, Prisma, GIT, Scrum
 html css jquery javascript bootstrap react redux fireworks Postgresql mysql Cypress Git Jest MySql Postman NodeJs
+![image](https://github.com/daelflodo/daelflodo/assets/127464860/c878a077-ec99-489d-b8a2-154b19f7c9b3)
