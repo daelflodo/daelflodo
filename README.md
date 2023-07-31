@@ -10,8 +10,8 @@ Mi objetivo es combinar mis habilidades técnicas con una mentalidad creativa pa
 
 Tecnologias: Javascript, React.js, Next.js, Node.js, Express.js, PostgreSQL, Sequelize, Prisma, GIT, Scrum
 html css jquery javascript bootstrap react redux fireworks Postgresql mysql Cypress Git Jest MySql Postman NodeJs
-<img src="https://github.com/daelflodo/daelflodo/assets/127464860/c878a077-ec99-489d-b8a2-154b19f7c9b3" alt="Image 1" width="400">
-<img src="https://github.com/daelflodo/daelflodo/assets/127464860/64f418ba-673b-43c8-ad93-1fa7fb50869c" alt="Image 2" width="400">
+<img src="https://github.com/daelflodo/daelflodo/assets/127464860/c878a077-ec99-489d-b8a2-154b19f7c9b3" alt="Image 1" width="40">
+<img src="https://github.com/daelflodo/daelflodo/assets/127464860/64f418ba-673b-43c8-ad93-1fa7fb50869c" alt="Image 2" width="40">
 <img src="https://github.com/daelflodo/daelflodo/assets/127464860/2a5aaa7a-310b-4c77-bec7-ab39b6209542" alt="Image 3" width="400">
 <img src="https://github.com/daelflodo/daelflodo/assets/127464860/7000c0f4-7a99-4305-bd9e-a80101c6cd4f" alt="Image 4" width="400">
 <img src="https://github.com/daelflodo/daelflodo/assets/127464860/5c941498-425a-468a-9c4e-f8a532eecb0f" alt="Image 5" width="400">
