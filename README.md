@@ -28,11 +28,18 @@ Tecnologias y Herramientas
 <img src="https://github.com/daelflodo/daelflodo/assets/127464860/e43e2211-3c2b-4a5c-af14-3bc9f638b75e" alt="Image 16" width="50" height="40">
 <img src="https://github.com/daelflodo/daelflodo/assets/127464860/8783b168-7ca1-4130-9f40-46c5023b95f3" alt="Image 18" width="50" height="40">
 
-- **Extras**:
+<br>
 
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
+<div align="center">
 
+<a href="https://github.com/0xabdulkhalid/">
+  <img src="https://github-readme-stats.vercel.app/api?username=0xabdulkhalid&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xabdulkhalid&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/>
+
+</a>
+</div>
+
+<br>
 
 
 
