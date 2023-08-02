@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @daelflodo
 
-Hola mi nombre es  David Flores, soy de Honduras actualemnte vivo en Ecuador , soy un desarrollador Fullstack graduado en Henry, con una sólida formación en desarrollo web y amplia experiencia en proyectos frontend y backend. 
+Hola mi nombre es  David Flores, soy de Honduras actualmente vivo en Ecuador , soy un desarrollador Fullstack graduado en Henry, con una sólida formación en desarrollo web y amplia experiencia en proyectos frontend y backend. 
 Donde obtuve conocimientos en tecnologias importantes para el desarrollo de paginas web. 
 
 Soy un entusiasta de la tecnología y un apasionado por el desarrollo web. 
