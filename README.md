@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @daelflodo
 
-Hola mi nombre es  David Flores, soy de Honduras actualmente vivo en Ecuador , soy un desarrollador Fullstack graduado en Henry, con una sólida formación en desarrollo web y amplia experiencia en proyectos frontend y backend. 
-Donde obtuve conocimientos en tecnologias importantes para el desarrollo de paginas web. 
+Soy un apasionado desarrollador Backend con una sólida formación en tecnologías clave para el desarrollo de aplicaciones web. Mi experiencia abarca JavaScript, TypeScript, Java, Node.js, Express, Nest, Sprint Boot, Docker, y una variedad de bases de datos como PostgreSQL y MySQL. He trabajado con ORMs como Prisma, Sequelize y TypeOrm para gestionar eficientemente la capa de persistencia de datos.
 
-Soy un entusiasta de la tecnología y un apasionado por el desarrollo web. 
-Mi objetivo es combinar mis habilidades técnicas con una mentalidad creativa para crear aplicaciones que mejoren la vida de las personas y aporten valor a las empresas.
+Mi objetivo es utilizar mis habilidades técnicas y mi enfoque meticuloso para crear sistemas robustos y escalables que impulsen el éxito de los proyectos. Disfruto abordando desafíos técnicos complejos y colaborando en equipos multidisciplinarios para alcanzar soluciones innovadoras.
+
 
 
 
