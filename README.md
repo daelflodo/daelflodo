@@ -11,7 +11,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://linkedin.com/in/daelflodo" target="_blank">
+  <a href="https://www.linkedin.com/in/davidflodo/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0a1628?style=for-the-badge&logo=linkedin&logoColor=00b4d8&labelColor=0a1628"/>
   </a>
   <a href="mailto:davidflodo@gmail.com" target="_blank">
