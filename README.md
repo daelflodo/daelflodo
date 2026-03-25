@@ -25,29 +25,6 @@
 
 <br/>
 
----
-
-## 👨‍💻 Sobre mí
-
-```typescript
-const daelflodo = {
-  name     : "David Elias Flores",
-  role     : "Backend Developer",
-  location : "Santo Domingo, Ecuador 🇪🇨  →  Open to Remote",
-  experience: "4+ años",
-  focus    : [
-    "Event-Driven Architecture (EDA)",
-    "Microservicios & REST APIs escalables",
-    "Seguridad: JWT · Bcrypt · Rate Limiting · CORS",
-    "Integración IA (OpenAI) & Cloud (AWS / Azure)",
-    "Principios SOLID / DDD / Clean Architecture"
-  ],
-  contact  : "davidflodo@gmail.com",
-  quote    : "Código limpio, sistemas robustos, impacto real 🚀"
-};
-```
-
----
 
 ## 🛠️ Stack Técnico
 
@@ -145,56 +122,6 @@ const daelflodo = {
 
 </details>
 
----
-
-## 🚀 Proyectos Destacados
-
-<div align="center">
-
-| Proyecto | Descripción | Stack |
-|:---:|:---|:---:|
-| **API Superflights** | Sistema de microservicios con gateway, comunicación asíncrona y despliegue en cloud | NestJS · RabbitMQ · AWS |
-| **Eclub** | Arquitectura distribuida (Gateway + Order + Inventory) con mensajería entre servicios | Spring Boot · RabbitMQ |
-
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/daelflodo?tab=repositories">
-    <img src="https://img.shields.io/badge/Ver%20todos%20mis%20repos-0a1628?style=for-the-badge&logo=github&logoColor=00b4d8"/>
-  </a>
-</div>
-
----
-
-## 🎓 Educación & Certificaciones
-
-<div align="center">
-
-| 🏅 Certificación / Título | 🏫 Institución |
-|:---|:---|
-| Full Stack Web Developer (+800 hs) | Henry Bootcamp |
-| Tecnólogo Superior en Desarrollo de Software *(en curso)* | IST Sudamericano |
-| Microservicios con NestJS | Platzi |
-| Docker Profesional | Platzi |
-| AWS Cloud | Platzi |
-| Upskilling Java (POO) | Platzi |
-
-</div>
-
----
-
-## 🌐 Idiomas
-
-<div align="center">
-
-![Español](https://img.shields.io/badge/Español-Nativo-00b4d8?style=flat-square&labelColor=0a1628)
-![Inglés](https://img.shields.io/badge/Inglés-Técnico-00b4d8?style=flat-square&labelColor=0a1628)
-
-</div>
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,100:050b1b&height=130&section=footer" width="100%"/>
