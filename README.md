@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=680&lines=Backend+Developer+%7C+4%2B+a%C3%B1os+de+experiencia+%F0%9F%9A%80;Arquitecturas+escalables+%7C+Microservicios+%7C+EDA;NestJS+%7C+Node.js+%7C+TypeScript+Expert;AWS+%7C+Docker+%7C+PostgreSQL+%7C+Redis;Integraci%C3%B3n+OpenAI+API+%7C+Cloud+%7C+Security" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=680&lines=Backend+Developer+%7C+4%2B+a%C3%B1os+de+experiencia+%F0%9F%9A%80;Arquitecturas+escalables+%7C+Microservicios+%7C+EDA;NestJS+%7C+Node.js+%7C+TypeScript+Expert;AWS+%7C+Docker+%7C+PostgreSQL+%7C+Redis;Integraci%C3%B3n+API+Externas+%7C+Cloud+%7C+Security" alt="Typing SVG"/>
   </a>
 </div>
 
