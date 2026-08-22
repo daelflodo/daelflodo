@@ -25,7 +25,6 @@
 
 <br/>
 
-
 ## 🛠️ Stack Técnico
 
 <div align="center">
@@ -53,11 +52,21 @@
 
 ---
 
+## 📈 Lenguajes más usados (Automático)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daelflodo&layout=donut&langs_count=8&bg_color=050b1b&title_color=00b4d8&text_color=c9d1d9&icon_color=00b4d8&border_color=1a3a5c&border_radius=12&hide_border=false"/>
+</div>
+
+> **Nota:** Este gráfico se actualiza automáticamente según el código en mis repositorios públicos.
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
   <img height="185em" src="https://github-readme-stats.vercel.app/api?username=daelflodo&show_icons=true&include_all_commits=true&count_private=true&bg_color=050b1b&title_color=00b4d8&text_color=c9d1d9&icon_color=00b4d8&border_color=1a3a5c&border_radius=12&hide_border=false"/>
-  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daelflodo&layout=compact&langs_count=7&bg_color=050b1b&title_color=00b4d8&text_color=c9d1d9&icon_color=00b4d8&border_color=1a3a5c&border_radius=12"/>
+  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daelflodo&layout=compact&langs_count=7&bg_color=050b1b&title_color=00b4d8&text_color=c9d1d9&icon_color=00b4d8&border_color=1a3a5c&border_radius=12&hide_border=false"/>
 </div>
 
 <div align="center">
@@ -121,7 +130,6 @@
 - 📖 Documentación con **Swagger UI**
 
 </details>
-
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,100:050b1b&height=130&section=footer" width="100%"/>
