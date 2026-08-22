@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050b1b,50:0a1a2e,100:00b4d8&height=230&section=header&text=David%20Elias%20Flores&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20NestJS%20%7C%20Microservices%20%7C%20Event-Driven%20Architecture&descAlignY=58&descSize=18&descColor=00b4d8&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050b1b,50:0a1a2e,100:00b4d8&height=230&section=header&text=David%20Elias%20Flores&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=[...]">
 </div>
 
 <div align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=680&lines=Backend+Developer+%7C+%F0%9F%9A%80;Arquitecturas+escalables+%7C+Microservicios+%7C+EDA;NestJS+%7C+Node.js+%7C+TypeScript+Expert;AWS+%7C+Docker+%7C+PostgreSQL+%7C+Redis;Integraci%C3%B3n+API+Externas+%7C+Cloud+%7C+Security" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=680&lines=Backend+Developer+%7C+%F0%9F%9A%80;[...]">
   </a>
 </div>
 
@@ -55,8 +55,12 @@
 ## 📈 Lenguajes más usados (Automático)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daelflodo&layout=donut&langs_count=8&bg_color=050b1b&title_color=00b4d8&text_color=c9d1d9&icon_color=00b4d8&border_color=1a3a5c&border_radius=12&hide_border=false"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daelflodo&layout=donut&langs_count=8&bg_color=050b1b&title_color=00b4d8&text_color=c9d1d9&icon_color=00b4d8&border_color=1a3a[...]"/>
 </div>
+
+<!-- LANGUAGES_START -->
+
+<!-- LANGUAGES_END -->
 
 > **Nota:** Este gráfico se actualiza automáticamente según el código en mis repositorios públicos.
 
@@ -65,12 +69,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=daelflodo&show_icons=true&include_all_commits=true&count_private=true&bg_color=050b1b&title_color=00b4d8&text_color=c9d1d9&icon_color=00b4d8&border_color=1a3a5c&border_radius=12&hide_border=false"/>
-  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daelflodo&layout=compact&langs_count=7&bg_color=050b1b&title_color=00b4d8&text_color=c9d1d9&icon_color=00b4d8&border_color=1a3a5c&border_radius=12&hide_border=false"/>
+  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=daelflodo&show_icons=true&include_all_commits=true&count_private=true&bg_color=050b1b&title_color=00b4d8&text_color=c9d1d[...]"  
+  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daelflodo&layout=compact&langs_count=7&bg_color=050b1b&title_color=00b4d8&text_color=c9d1d9&icon_color=00b4d8&[...]"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=daelflodo&theme=dark&background=050b1b&border=1a3a5c&ring=00b4d8&fire=ff6b35&currStreakLabel=00b4d8&sideLabels=00b4d8&dates=8b9ab5&currStreakNum=ffffff&sideNums=ffffff" width="72%"/>
+  <img src="https://streak-stats.demolab.com?user=daelflodo&theme=dark&background=050b1b&border=1a3a5c&ring=00b4d8&fire=ff6b35&currStreakLabel=00b4d8&sideLabels=00b4d8&dates=8b9ab5&currStreakNum=fffff[...]"/>
 </div>
 
 ---
@@ -136,4 +140,5 @@
 </div>
 
 ---
+
 Credit: [daelflodo](https://github.com/daelflodo)
